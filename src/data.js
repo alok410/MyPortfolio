@@ -3,12 +3,13 @@ export const config = {
     portfolioLogo: 'Portfolio',
     projectCard: {
       cards: [
-        {
-          heading: 'Portfolio Website(React JS)',
+
+      {
+          heading: 'Cloud Classroom - PHP Project',
           description:
-            'I have created a dynamic portfolio website with interactive content and engaging animations using React.js. The website enhances my products with advanced UI/UX features, providing flawless functionality and a great customer experience.',
-          animationDelay: '300',
-          buttonLink: 'https://myportfolio410.netlify.app/',
+            'Developed a web-based application enabling students, faculty, and guests to access e-learning resources, check results, view schedules, and explore courses. It includes features like a discussion forum, fee structure, and an e-learn module for attending missed classes, offering comprehensive institute-related information online',
+          animationDelay: '500',
+          buttonLink: 'https://github.com/alok410/PhpCloudClass',
           buttonText: 'CHECK OUT',
         },
         {
@@ -32,7 +33,15 @@ export const config = {
           animationDelay: '700',
           buttonLink: 'https://github.com/alok410/jobhunt',
           buttonText: 'CHECK OUT',
-        }
+        },
+        {
+          heading: 'Portfolio Website(React JS)',
+          description:
+            'I have created a dynamic portfolio website with interactive content and engaging animations using React.js. The website enhances my products with advanced UI/UX features, providing flawless functionality and a great customer experience.',
+          animationDelay: '300',
+          buttonLink: 'https://myportfolio410.netlify.app/',
+          buttonText: 'CHECK OUT',
+        },
       ],
     },
     internships: {

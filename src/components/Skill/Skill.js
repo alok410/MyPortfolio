@@ -20,6 +20,7 @@ const Skill = () => {
         'JavaScript',
         'React',
         'ExperessJS',
+        "PHP",
         'NodeJS',
         'Shopify',
         'Jquery',
