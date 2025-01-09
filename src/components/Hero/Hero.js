@@ -124,7 +124,7 @@ const Hero = () => {
               </a>
               <a
                 className="hero__know-btn"
-                href="https://drive.google.com/file/d/1tixLWWpQACPsgHBzIRGB8-clSivvjHuf/view?usp=drive_link"
+                href="https://drive.google.com/file/d/118alGuXk1O4PyYQZr6HZrfElWxlWuhvV/view?usp=sharing"
                 data-aos="fade-up"
                 data-aos-delay="1800"
               >
