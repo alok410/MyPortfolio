@@ -110,7 +110,7 @@ const About = () => {
                     Lecturer and Software Support - Gujrat Technological University .
                     </b>
                     </span>
-                    <span><u><b>2024 FEB- Till Now</b></u></span>
+                    <span><u><b>2024 FEB- Till Now(On Notice Period)</b></u></span>
                   <br />
                   Lecturer at Gujarat Technological University, specializing in software support, back-end development and project management. I enjoy mentoring students and developing collaborative solutions.
                 </p>
