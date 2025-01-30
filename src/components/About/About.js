@@ -92,11 +92,29 @@ const About = () => {
                 <h2>
                   E<span>xperience</span>
                 </h2>
+                <div style={{display:"flex"}}>
+
                 <p>
-                  <span>atQor(formally bitscape) pvt ltd - 1+ year of experience.</span>
+                  <span><b>
+                    atQor(formally bitscape) pvt ltd - 1+ year of experience.
+                    </b>
+                    </span>
+                  <span><u><b> 2023 JAN - 2024 JAN</b></u></span>
                   <br />
                   I have 1+ year of experience at atQor (formerly Bitscape) Pvt. Ltd.  in frontend development, specializing in building highly responsive websites.Expertise includes working with technologies like .NET, React.js, and ExpressJS, showcasing my ability to create modern, dynamic, and user-friendly web applications.
                 </p>
+                <p>
+                  <span>
+                    <b>
+
+                    Lecturer and Software Support - Gujrat Technological University .
+                    </b>
+                    </span>
+                    <span><u><b>2024 FEB- Till Now</b></u></span>
+                  <br />
+                  Lecturer at Gujarat Technological University, specializing in software support, back-end development and project management. I enjoy mentoring students and developing collaborative solutions.
+                </p>
+                </div>
               </Link>
             </div>
             <div
