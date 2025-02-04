@@ -12,14 +12,14 @@ export const config = {
           buttonLink: 'https://github.com/alok410/PhpCloudClass',
           buttonText: 'CHECK OUT',
         },
-        {
-          heading: 'Recipe Book Website(ReactJS + Django)',
-          description:
-            'Building a full-stack Recipe Book website using ReactJS for the frontend and Django for the backend to manage and display recipes.',
-          animationDelay: '500',
-          buttonLink: 'https://github.com/alok410/AlokRecipeWeb',
-          buttonText: 'CHECK OUT',
-        },
+        // {
+        //   heading: 'Recipe Book Website(ReactJS + Django)',
+        //   description:
+        //     'Building a full-stack Recipe Book website using ReactJS for the frontend and Django for the backend to manage and display recipes.',
+        //   animationDelay: '500',
+        //   buttonLink: 'https://github.com/alok410/AlokRecipeWeb',
+        //   buttonText: 'CHECK OUT',
+        // },
         {
           heading: 'Leave Request System(ReactJS + ExpressJS + SQL)',
           description: 'I created a Leave Request System using ReactJS for the frontend, ExpressJS for the backend, and SQL for database management. The system streamlines leave requests with a user-friendly interface and robust backend processing.',
