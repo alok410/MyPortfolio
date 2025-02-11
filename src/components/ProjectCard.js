@@ -27,6 +27,7 @@ const ProjectCard = (props) => {
               </a>
             </div>
           </Collapsible>
+        
         </div>
       </div>
     </>
